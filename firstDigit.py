@@ -7,6 +7,7 @@ def firstDigit(inputString):
         ### if True, return char
         if str.isdigit(char):
             return char
+        
         ### otherwise continue
         else:
             continue
